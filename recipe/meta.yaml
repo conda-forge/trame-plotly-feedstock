@@ -1,5 +1,5 @@
 {% set name = "trame-plotly" %}
-{% set version = "2.1.0" %}
+{% set version = "2.1.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/trame-plotly-{{ version }}.tar.gz
-  sha256: 035c2983fa296149449553530021c3117f3efad65f6b5f0d63cdf6f79ed4d690
+  sha256: cecc5b0daa5f2d704e4e5e16a3ddb814809bb559237646f1123ef3c01824bedf
 
 build:
   number: 0
