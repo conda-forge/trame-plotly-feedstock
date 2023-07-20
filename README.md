@@ -1,11 +1,11 @@
-About trame-plotly
-==================
+About trame-plotly-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trame-plotly-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/trame-plotly/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trame-plotly-feedstock/blob/main/LICENSE.txt)
 
 Summary: Plotly figure widget for trame
 
