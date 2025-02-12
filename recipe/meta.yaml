@@ -23,6 +23,7 @@ requirements:
   run:
     - python >={{ python_min }}
     - trame-client
+    - plotly>=6.0.0
 
 test:
   imports:
